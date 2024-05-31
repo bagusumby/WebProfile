@@ -1,0 +1,7 @@
+.min-w-full {
+    min-width: 100%;
+}
+
+.overflow-x-scroll {
+    overflow-x: scroll;
+}
